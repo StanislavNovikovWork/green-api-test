@@ -1,0 +1,9 @@
+.center {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.submitButton {
+  margin-top: 1rem;
+}

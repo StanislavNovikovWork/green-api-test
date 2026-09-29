@@ -1,0 +1,23 @@
+.messages-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.messages-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.messages-container::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
+.messages-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.mantine-AppShell-main {
+  background-color: #9fdbee;
+  background-image: url('/src/assets/pattern.svg');
+  background-repeat: repeat;
+  min-height: 100vh;
+}

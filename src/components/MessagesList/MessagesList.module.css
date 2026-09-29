@@ -1,0 +1,40 @@
+.container {
+  margin-bottom: 20px;
+  overflow-x: hidden;
+}
+
+.emptyContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.message {
+  min-width: 78px;
+  min-height: 38px;
+  max-width: 375px;
+  position: relative;
+}
+
+.messageOwn {
+  margin-left: auto;
+  margin-right: 0;
+  background-color: #e3f2fd;
+}
+
+.messageIncoming {
+  margin-left: 0;
+  margin-right: auto;
+  background-color: #fff;
+}
+
+.messageText {
+  word-wrap: break-word;
+}
+
+.messageTimestamp {
+  position: absolute;
+  right: 12px;
+  bottom: 5px;
+}
