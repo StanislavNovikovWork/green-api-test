@@ -2,9 +2,9 @@
 
 Тестовое задание на позицию «Фронтенд-разработчик React» в GREEN-API: минимальный веб-чат для отправки и получения текстовых сообщений в мессенджере [MAX](https://green-api.com/max) через [HTTP API GREEN-API](https://green-api.com/v3/docs/).
 
-## Демо
+Демо https://green-api-test-inky.vercel.app/
 
-Видео демонстрация работы приложения: [docs/demo.mov](docs/demo.mov)
+![Демонстрация работы приложения](docs/demo.gif)
 
 ## Как пользоваться
 
